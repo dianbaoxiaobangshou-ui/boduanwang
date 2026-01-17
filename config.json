@@ -1,0 +1,94 @@
+{
+  "log_path": "okx_monitor.log",
+  "poll_interval_seconds": 30,
+  "telegram_token": "这个地方填入纸飞机机器人的api",
+  "telegram_chat_id": "这个地方填入机器人的chatID",
+  "ssl_verify": false,
+  "watchers": [
+    {
+      "pair": "BTCUSDT",
+      "contract_type": "SWAP",
+      "bar": "12h"
+    },
+    {
+      "pair": "ETHUSDT",
+      "contract_type": "SWAP",
+      "bar": "12h"
+    },
+    {
+      "pair": "BNBUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "SOLUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "ADAUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "XRPUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "DOTUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "DOGEUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "AVAXUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "LINKUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "LTCUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "SHIBUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "UNIUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "XTZUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "HBARUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "ATOMUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    },
+    {
+      "pair": "FILUSDT",
+      "contract_type": "SWAP",
+      "bar": "1D"
+    }
+  ]
+}

@@ -20,7 +20,8 @@
 
      * **阴阴阳排列**：市场趋强，提示“走强”。
      * **阳阳阴排列**：市场趋弱，提示“走弱”。
-   ![示例图片](https://github.com/your-username/your-repository/raw/main/images/example.png)
+![图片描述](https://github.com/dianbaoxiaobangshou-ui/-/raw/main/1.jpg)
+
     
 
 3. **时间触发机制**：
